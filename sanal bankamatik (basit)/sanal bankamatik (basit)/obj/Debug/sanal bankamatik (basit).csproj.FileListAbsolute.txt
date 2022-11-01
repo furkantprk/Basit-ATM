@@ -1,0 +1,8 @@
+C:\Users\furka\source\repos\sanal bankamatik (basit)\sanal bankamatik (basit)\bin\Debug\sanal bankamatik (basit).exe.config
+C:\Users\furka\source\repos\sanal bankamatik (basit)\sanal bankamatik (basit)\bin\Debug\sanal bankamatik (basit).exe
+C:\Users\furka\source\repos\sanal bankamatik (basit)\sanal bankamatik (basit)\bin\Debug\sanal bankamatik (basit).pdb
+C:\Users\furka\source\repos\sanal bankamatik (basit)\sanal bankamatik (basit)\obj\Debug\sanal bankamatik (basit).csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\sanal bankamatik (basit)\sanal bankamatik (basit)\obj\Debug\sanal bankamatik (basit).csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\source\repos\sanal bankamatik (basit)\sanal bankamatik (basit)\obj\Debug\sanal bankamatik (basit).csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\sanal bankamatik (basit)\sanal bankamatik (basit)\obj\Debug\sanal bankamatik (basit).exe
+C:\Users\furka\source\repos\sanal bankamatik (basit)\sanal bankamatik (basit)\obj\Debug\sanal bankamatik (basit).pdb
